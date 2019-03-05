@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="J-Race:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/J_Race_jar</output-path>
+    <root id="archive" name="J-Race.jar">
+      <element id="module-output" name="J-Race" />
+    </root>
+  </artifact>
+</component>
